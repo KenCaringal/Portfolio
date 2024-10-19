@@ -72,10 +72,11 @@ The project uses dynamic imports to load the components when needed.
 
 ## Runing the project
 After completing the installation steps:
+
 Run the following command to start the development server:
-
+```bash
 npm run serve
-
+```
 Open the application in your browser at http://localhost:8080/.
 
 ## Login Credentials
@@ -83,6 +84,7 @@ Open the application in your browser at http://localhost:8080/.
 The login system uses hard-coded credentials. Use the following to access the dashboard:
 
 Username: ken
+
 Password: 2024
 
 
