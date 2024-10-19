@@ -7,12 +7,14 @@ This project is a portfolio web application built using Vue.js. It includes vari
 
 ## Installation
 
-git clone <URL>
+
 
 
 To set up and run this project locally, follow these steps:
 
 ### 1. Clone the repository
+
+git clone <URL>
 
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary packages using npm:
