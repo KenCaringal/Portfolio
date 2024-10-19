@@ -14,7 +14,7 @@ To set up and run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone "URL Of This Project"
+git clone https://github.com/KenCaringal/Portfolio.git
 ```
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary packages using npm:
@@ -27,14 +27,14 @@ npm install
 ### 3. Install Bootstrap Icons
 In addition to the default dependencies, install Bootstrap Icons:
 
-
+```bash
 npm install bootstrap-icons
-
+```
 ### 4. Import Bootstrap Icons
 Open main.js and import Bootstrap Icons into your project
-
+```bash
 import 'bootstrap-icons/font/bootstrap-icons.css';
-
+```
 ## Project Structure
 App.vue - The root component that structures the application layout, including the sidebar and footer.
 
