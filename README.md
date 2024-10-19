@@ -13,15 +13,17 @@ This project is a portfolio web application built using Vue.js. It includes vari
 To set up and run this project locally, follow these steps:
 
 ### 1. Clone the repository
-
+```bash
 git clone "URL Of This Project"
-
+```
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary packages using npm:
-
+```bash
 cd <your-project-directory>
+```
+```bash
 npm install
-
+```
 ### 3. Install Bootstrap Icons
 In addition to the default dependencies, install Bootstrap Icons:
 
