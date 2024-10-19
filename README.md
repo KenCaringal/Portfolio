@@ -76,5 +76,3 @@ Flexbox - Used for layout design, ensuring responsiveness across the app.
 
 
 
-
-
