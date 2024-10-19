@@ -7,11 +7,12 @@ This project is a portfolio web application built using Vue.js. It includes vari
 
 ## Installation
 
+git clone <URL>
+
+
 To set up and run this project locally, follow these steps:
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/KenCaringal/Portfolio.git:
 
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary packages using npm:
@@ -32,11 +33,17 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 ## Project Structure
 App.vue - The root component that structures the application layout, including the sidebar and footer.
+
 AppFooter.vue - A simple footer component that stays at the bottom of the page, including copyright information.
+
 AppSidebar.vue - A sidebar component with navigation links for different sections like Dashboard, Profile, Portfolio Showcase, and more.
+
 DashboardLayout.vue - The layout for pages inside the dashboard, wrapping the content with the sidebar and footer.
+
 LoginPage.vue - The login page, which includes form validation and handles redirection to the dashboard upon successful login.
+
 HomePage.vue - The home/dashboard page displaying key statistics in cards.
+
 ProfilePage.vue, PortFolio.vue, ConTact.vue, CreaTive.vue - Separate pages for profile, portfolio, contact information, and creative works.
 
 ## Routing Setup
