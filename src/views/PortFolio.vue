@@ -7,7 +7,7 @@
         <h2>GitHub Project</h2>
         <img src="../assets/website.jpg" alt="GitHub Project Image" class="project-image" />
         <p>View this project on GitHub</p>
-        <a href="https://github.com/your-github-username/your-project-repo" target="_blank" class="btn btn-primary">View on GitHub</a>
+        <a href="https://github.com/KenCaringal/Portfolio" target="_blank" class="btn btn-primary">View on GitHub</a>
       </div>
 
       <div class="project-card">
@@ -77,3 +77,4 @@ export default {
   margin-top: 10px; /* Space above the button */
 }
 </style>
+
