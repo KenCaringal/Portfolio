@@ -11,7 +11,9 @@ To set up and run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KenCaringal/Portfolio.git
+git clone https://github.com/KenCaringal/Portfolio.git:
+
+---
 
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary packages using npm:
