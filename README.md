@@ -53,12 +53,19 @@ ProfilePage.vue, PortFolio.vue, ConTact.vue, CreaTive.vue - Separate pages for p
 Routing is defined in index.js with routes for the following components:
 
 / - LoginPage.vue
+
 /dashboard - DashboardLayout.vue with child routes for:
+
 /dashboard - HomePage.vue
+
 /dashboard/profile - ProfilePage.vue
+
 /dashboard/portfolio - PortFolio.vue
+
 /dashboard/contact - ConTact.vue
+
 /dashboard/creative - CreaTive.vue
+
 The project uses dynamic imports to load the components when needed.
 
 ## Runing the project
@@ -79,8 +86,11 @@ Password: 2024
 
 ## Technologies Used
 Vue.js - JavaScript framework for building user interfaces.
+
 Bootstrap - CSS framework for responsive design.
+
 Bootstrap Icons - Icons used for navigation and actions.
+
 Flexbox - Used for layout design, ensuring responsiveness across the app.
 
 
